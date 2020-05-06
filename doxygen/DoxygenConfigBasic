@@ -1,0 +1,6 @@
+PROJECT_NAME            = memory
+
+INPUT                   =
+INCLUDE_PATH            = 
+
+@INCLUDE                = ../../designer/DoxygenConfigGeneric
